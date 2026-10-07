@@ -1,0 +1,7 @@
+# Franco 街头涂鸦 v1
+
+使用内置 image_gen，用户参考图仅用于风格，不复制原文字。透明 PNG；黑色为基础，白色局部戏谑反光，无滴落。此版为独立静态上墙预览，未替换首页。
+
+## Prompt
+
+Use attached photograph ONLY as a stylistic reference for authentic street graffiti letter construction, not its text, colors, wall or objects. Create original finished spray-painted graffiti lettering spelling EXACTLY 'FRANCO', six letters F R A N C O in readable order. Transparent background, isolated complete word art with generous safe margins. Thick chunky angular interlocking letters with playful skewed baselines and irregular widths, rounded bulges contrasted with sharp folded arrow-like terminals, energetic semi-wildstyle but clearly readable. Heavy BLACK fill as dominant 85 percent, charcoal subtle volume, black outline. WHITE used sparingly as cheeky exaggerated hand-painted specular reflections: a few short thin slashes, small sharp white patches on upper-left faces, tiny dots and broken accents suggesting a mischievous cartoon shine. No silver chrome or metallic material. Actual spray paint texture with subtly soft spray edges and understated overspray tightly near lettering, not polished vector logo or brush-script signature. Controlled asymmetry and overlapping letters, lively street-art attitude. NO drips, NO hanging paint runs, NO colorful fills, NO colored outlines, NO wall, NO floor, NO photo, NO background scene, NO rectangle, NO white backing, NO extra words or signature, NO exclamation mark. Original design, do not reproduce REVO from reference.
